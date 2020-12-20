@@ -57,15 +57,15 @@ Below are the features that will be available in the completed
 
 | Feature | Description |  Status |
 | ----- | ------- | ------- |
-| **HIAS Network Device** | EMAR is a device on the HIAS network, allowing machine to machine/machine to application communication. |
-| **Tele-Operated** | Remotely operated using the HIAS UI, voice control & remote control. |
-| **3D printed** | EMAR's shell is 3D printed. |
-| **Real-Time Depth Sensing** |  Uses Intel® RealSense™ D415 camera and streams depth frames to a local server, used by HIAS to allow users to see realtime stream of depth sensors. |
-| **Real-Time Camera Stream** | Uses Intel® RealSense™ D415 camera and streams camera frames to a local server. |
-| **Object Detection** | Uses Intel® RealSense™ D415 camera and streams camera frames to a local server. |
-| **Remote Control** | Uses ELEGOO Uno R3 kit with their IR Receiver Module and Remote Control to provide easy remote control of EMAR Mini. |
-| **Real-Time 2 Way Audio Communication** | Audio is sent from HIAS and other applications to EMAR Mini and vice versa. This feature is to provide medical teams the ability to communicate with patients in real-time whilst seeing them via the real-time camera stream. |
-| **Thermal Sensing** | A thermal camera is used to take patient's temperatures safely. |
+| **HIAS Network Device** | EMAR is a device on the HIAS network, allowing machine to machine/machine to application communication. | COMPLETE |
+| **Tele-Operated** | Remotely operated using the HIAS UI, voice control & remote control. | IN PROGRESS |
+| **3D printed** | EMAR's shell is 3D printed. | IN PROGRESS |
+| **Real-Time Depth Sensing** |  Uses Intel® RealSense™ D415 camera and streams depth frames to a local server, used by HIAS to allow users to see realtime stream of depth sensors. | IN PROGRESS |
+| **Real-Time Camera Stream** | Uses Intel® RealSense™ D415 camera and streams camera frames to a local server. | COMPLETE |
+| **Object Detection** | Uses Intel® RealSense™ D415 camera and streams camera frames to a local server. | COMPLETE |
+| **Remote Control** | Uses ELEGOO Uno R3 kit with their IR Receiver Module and Remote Control to provide easy remote control of EMAR Mini. | COMPLETE |
+| **Real-Time 2 Way Audio Communication** | Audio is sent from HIAS and other applications to EMAR Mini and vice versa. This feature is to provide medical teams the ability to communicate with patients in real-time whilst seeing them via the real-time camera stream. | IN PROGRESS |
+| **Thermal Sensing** | A thermal camera is used to take patient's temperatures safely. | IN PROGRESS |
 
 &nbsp;
 
