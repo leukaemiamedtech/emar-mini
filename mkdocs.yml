@@ -1,0 +1,14 @@
+site_name: EMAR Mini
+site_url: https://github.com/AIIAL/EMAR-Mini
+
+nav:
+    - Home: 'index.md'
+    - RPI:
+      - Install: 'rpi4/installation/raspian.md'
+      - Test: 'rpi4/usage/raspian.md'
+      - Hardware: 'rpi4/hardware/rpi4.md'
+    - STLs:
+      - 3D Print: 'stls/usage/index.md'
+    - Remote:
+      - Install: 'remote-control/installation/index.md'
+      - Usage: 'remote-control/usage/index.md'
