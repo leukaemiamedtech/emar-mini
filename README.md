@@ -12,7 +12,7 @@
 
 # Introduction
 
-![Emergency Assistance Robot](assets/images/emar-mini-v1.png)
+![Emergency Assistance Robot](assets/images/emar-mini-v1.jpg)
 
 **EMAR Mini** is an open-source proof of concept Emergency Assistance Robot. EMAR Mini is a minature version of [EMAR](https://github.com/AIIAL/EMAR) that is being built to assist doctors, nurses and hospital staff with lightweight tasks.
 
