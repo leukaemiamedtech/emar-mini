@@ -2,9 +2,10 @@
 ## Emergency Assistance Robot Mini
 [![Emergency Assistance Robot](assets/images/project-banner.jpg)](https://github.com/AIIAL/EMAR-Mini)
 
-[![VERSION](https://img.shields.io/badge/VERSION-1.0.0-blue.svg)](https://github.com/AIIAL/EMAR-Mini/tree/release-1.0.0) [![DEV BRANCH](https://img.shields.io/badge/DEV%20BRANCH-develop-blue.svg)](https://github.com/AIIAL/EMAR-Mini/tree/0.1.0) [![Issues Welcome!](https://img.shields.io/badge/Contributions-Welcome-lightgrey.svg)](CONTRIBUTING.md) [![Issues](https://img.shields.io/badge/Issues-Welcome-lightgrey.svg)](issues)
+[![VERSION](https://img.shields.io/badge/VERSION-1.0.1-blue.svg)](https://github.com/AIIAL/EMAR-Mini/tree/release-1.0.1) [![DEV BRANCH](https://img.shields.io/badge/DEV%20BRANCH-develop-blue.svg)](https://github.com/AIIAL/EMAR-Mini/tree/0.1.0) [![Issues Welcome!](https://img.shields.io/badge/Contributions-Welcome-lightgrey.svg)](CONTRIBUTING.md) [![Issues](https://img.shields.io/badge/Issues-Welcome-lightgrey.svg)](issues)
 
-[![Documentation Status](https://readthedocs.org/projects/emar-mini/badge/?version=latest)](https://emar-mini.readthedocs.io/en/latest/?badge=latest) [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5175/badge)](https://bestpractices.coreinfrastructure.org/projects/5175)
+[![Documentation Status](https://readthedocs.org/projects/emar-mini/badge/?version=latest)](https://emar-mini.readthedocs.io/en/latest/?badge=latest) [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5175/badge)](https://bestpractices.coreinfrastructure.org/projects/5175) [![DOI](https://zenodo.org/badge/304557406.svg)](https://zenodo.org/badge/latestdoi/304557406)
+
 
 [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-blue.svg)](LICENSE)
 
@@ -59,9 +60,9 @@ Below you will find all of the parts of the EMAR Mini project, including the STL
 
 | ID | GUIDE | INFORMATION | AUTHOR | Status |
 | ----- | ----- | ----------- | ------ | ------ |
-| 1 | [Raspberry Pi installation guide](rpi4/installation/raspian.md) | Software installation and testing. | [Adam Milton-Barker](https://www.leukemiaairesearch.com/association/volunteers/adam-milton-barker "Adam Milton-Barker") | WORK IN PROGRESS |
+| 1 | [Raspberry Pi installation guide](docs/rpi4/installation/raspian.md) | Software installation and testing. | [Adam Milton-Barker](https://www.leukemiaairesearch.com/association/volunteers/adam-milton-barker "Adam Milton-Barker") | WORK IN PROGRESS |
 | 2 | [3D Printing guide](docs/stls/usage/index.md "3D Printing guide") | Guide for printing EMAR Mini. |  [Adam Milton-Barker](https://www.leukemiaairesearch.com/association/volunteers/adam-milton-barker "Adam Milton-Barker") | WORK IN PROGRESS |
-| 3 | [Raspberry Pi hardware assembly guide](rpi4/installation/raspian.md) | Guide to assembling EMAR Mini. | [Adam Milton-Barker](https://www.leukemiaairesearch.com/association/volunteers/adam-milton-barker "Adam Milton-Barker") | WORK IN PROGRESS |
+| 3 | [Raspberry Pi hardware assembly guide](docs/rpi4/hardware/raspian.md) | Guide to assembling EMAR Mini. | [Adam Milton-Barker](https://www.leukemiaairesearch.com/association/volunteers/adam-milton-barker "Adam Milton-Barker") | WORK IN PROGRESS |
 | 4 | [Remote control installation guide (Optional)](remote-control/installation/index.md) | Optional IR remote control installation guides. | [Adam Milton-Barker](https://www.leukemiaairesearch.com/association/volunteers/adam-milton-barker "Adam Milton-Barker") | COMPLETE |
 | 5 | [Remote control usage guide (Optional)](remote-control/usage/index.md) | Optional IR remote control installation guides. | [Adam Milton-Barker](https://www.leukemiaairesearch.com/association/volunteers/adam-milton-barker "Adam Milton-Barker") | COMPLETE |
 
