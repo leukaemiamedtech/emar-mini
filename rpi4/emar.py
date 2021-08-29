@@ -92,6 +92,7 @@ class emar():
         self.mqtt.configure()
         self.mqtt.start()
         self.mqtt.subscribe()
+        self.mqtt.commandsCallback = self.commands
 
     def hardware(self):
         """ Loads the EMAR Mini hardware modules. """
@@ -195,7 +196,7 @@ class emar():
             "Longitude": float(location[1])
         })
 
-        self.helpers.logger.info("EMAR Mini life statistics published.")
+        self.helpers.logger.info("HIASCDI life statistics published.")
         threading.Timer(300.0, self.life).start()
 
     def threading(self):

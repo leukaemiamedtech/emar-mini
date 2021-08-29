@@ -1,6 +1,6 @@
 {
     "MobileNetSSD": {
-        "bin": "Model/MobileNetSSD_deploy.bin",
+        "bin": "model/MobileNetSSD_deploy.bin",
         "classes": [
             "background",
             "aeroplane",
@@ -28,6 +28,6 @@
         "meanVal": 127.53,
         "size": 300,
         "threshold": 0.6,
-        "xml": "Model/MobileNetSSD_deploy.xml"
+        "xml": "model/MobileNetSSD_deploy.xml"
     }
 }
