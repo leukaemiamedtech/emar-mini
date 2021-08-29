@@ -61,10 +61,10 @@ Below you will find all of the parts of the EMAR Mini project, including the STL
 | ID | GUIDE | INFORMATION | AUTHOR | Status |
 | ----- | ----- | ----------- | ------ | ------ |
 | 1 | [Raspberry Pi installation guide](docs/rpi4/installation/raspian.md) | Software installation and testing. | [Adam Milton-Barker](https://www.leukemiaairesearch.com/association/volunteers/adam-milton-barker "Adam Milton-Barker") | WORK IN PROGRESS |
-| 2 | [3D Printing guide](docs/stls/usage/index.md "3D Printing guide") | Guide for printing EMAR Mini. |  [Adam Milton-Barker](https://www.leukemiaairesearch.com/association/volunteers/adam-milton-barker "Adam Milton-Barker") | WORK IN PROGRESS |
-| 3 | [Raspberry Pi hardware assembly guide](docs/rpi4/hardware/raspian.md) | Guide to assembling EMAR Mini. | [Adam Milton-Barker](https://www.leukemiaairesearch.com/association/volunteers/adam-milton-barker "Adam Milton-Barker") | WORK IN PROGRESS |
-| 4 | [Remote control installation guide (Optional)](remote-control/installation/index.md) | Optional IR remote control installation guides. | [Adam Milton-Barker](https://www.leukemiaairesearch.com/association/volunteers/adam-milton-barker "Adam Milton-Barker") | COMPLETE |
-| 5 | [Remote control usage guide (Optional)](remote-control/usage/index.md) | Optional IR remote control installation guides. | [Adam Milton-Barker](https://www.leukemiaairesearch.com/association/volunteers/adam-milton-barker "Adam Milton-Barker") | COMPLETE |
+| 2 | [3D Printing guide](docs/stls/usage/index.md "3D Printing guide") | Guide for printing EMAR Mini. | [Jose Mario Garza](https://www.AIIAL.com/association/volunteers/jose-mario-garza "Jose Mario Garza") | WORK IN PROGRESS |
+| 3 | [Raspberry Pi hardware assembly guide](docs/rpi4/hardware/rpi4.md) | Guide to assembling EMAR Mini. | [Adam Milton-Barker](https://www.leukemiaairesearch.com/association/volunteers/adam-milton-barker "Adam Milton-Barker") | WORK IN PROGRESS |
+| 4 | [Remote control installation guide (Optional)](docs/remote-control/installation/index.md) | Optional IR remote control installation guides. | [Adam Milton-Barker](https://www.leukemiaairesearch.com/association/volunteers/adam-milton-barker "Adam Milton-Barker") | COMPLETE |
+| 5 | [Remote control usage guide (Optional)](docs/remote-control/usage/index.md) | Optional IR remote control installation guides. | [Adam Milton-Barker](https://www.leukemiaairesearch.com/association/volunteers/adam-milton-barker "Adam Milton-Barker") | COMPLETE |
 
 &nbsp;
 
